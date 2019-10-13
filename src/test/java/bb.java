@@ -9,6 +9,14 @@ public class bb {
         int main234=9;
         
 
+         int maind =9;
+        int main2w =9;
+        int main333 =9;
+        int main343 =9;
+        int main23e =9;
+        int main45d =9;
+        int main234d=9;
+
         
         
 
