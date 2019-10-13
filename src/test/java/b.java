@@ -13,5 +13,7 @@ public class b {
         System.out.println("second ");
         System.out.println("second ");
         System.out.println("second ");
+
+        System.out.println("master 3 part");
     }
 }
