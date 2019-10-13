@@ -15,6 +15,9 @@ public class bb {
         int main23 =9;
         int main45 =9;
         int main234=9;
+                     int main23 =9;
+        int main45 =9;
+        int main234=9;
         
         
 
